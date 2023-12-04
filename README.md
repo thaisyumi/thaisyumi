@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there, I'm Thais Yumi. Nice to meet you! 👋
 
-<!--
-**thaisyumi/thaisyumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 🔭 I’m currently working on front end
+- 🌱 I’m currently learning React
+- 📫 How to reach me: contatothaisyumi@gmail.com
+- 😄 Pronouns: She/Her
 - ⚡ Fun fact: ...
--->
+
+### Olá! Eu sou a Thais Yumi 👋
+
+- 🔭 Atualmente trabalho com front end
+- 🌱 Estudando React
+- 📫 Contato: contatothaisyumi@gmail.com
+- 😄 Pronomes: ela/dela
+- ⚡ Fun fact: 

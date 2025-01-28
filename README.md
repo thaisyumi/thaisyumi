@@ -1,7 +1,7 @@
 ### Hi there, I'm Thais Yumi 👋
 
-- 🔭 I’m currently working on front end
-- 🌱 I’m currently learning React
+- 🔭 I’m currently working on mobile dev
+- 🌱 I’m currently learning Java / Kotlin
 - 📫 How to reach me: contatothaisyumi@gmail.com
 - 😄 Pronouns: She/Her
   
